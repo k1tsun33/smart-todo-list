@@ -1,0 +1,6 @@
+{
+  "name": "To-Do List Intelligente",
+  "description": "Application intelligente de gestion de tâches avec organisation par priorités, dates limites, rappels de notifications et persistance des données.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
